@@ -23,5 +23,8 @@ git log: used to show all of a repository’s commits. This command displays a l
 git log --oneline: print a single commit in a single line as output when the git log command is executed using this option.
 (git log --oneline)
 
+git checkeout:  lets you navigate between the branches created by git branch.
+(git checkout)
+
 
 
