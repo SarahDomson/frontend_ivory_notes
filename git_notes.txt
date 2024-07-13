@@ -17,4 +17,8 @@ git add: it saves changes in a file to the staging area.
 git commit: saves your work at a specific point in time, along with a message explaining what was changed or added. This helps maintain a clear history of your project's development.
 (git commit -m "message")
 
+git log: used to show all of a repository’s commits. This command displays a log of all commits made to the current branch so far.
+(git log)
+
+
 
