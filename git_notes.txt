@@ -20,5 +20,8 @@ git commit: saves your work at a specific point in time, along with a message ex
 git log: used to show all of a repository’s commits. This command displays a log of all commits made to the current branch so far.
 (git log)
 
+git log --oneline: print a single commit in a single line as output when the git log command is executed using this option.
+(git log --oneline)
+
 
 
