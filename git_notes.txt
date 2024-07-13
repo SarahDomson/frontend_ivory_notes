@@ -1,9 +1,20 @@
 git config: this command allows you to specify the username and email address that will be used with your commits.
+(git config --global user.name "<Your-Full-Name>"
+
+# sets up Git with your email
+
+git config --global user.email "<your-email-address>")
 
 git init: command creates all of the necessary files and directories for Git to keep track of everything.
+(git init)
 
 git status: it informs us of the state of our repository as seen in Git.
+(git status)
 
 git add: it saves changes in a file to the staging area.
+(git add .)
+
+git commit: saves your work at a specific point in time, along with a message explaining what was changed or added. This helps maintain a clear history of your project's development.
+(git commit -m "message")
 
 
