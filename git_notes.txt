@@ -1,1 +1,2 @@
 git config this command allows you to specify the username and email address that will be used with your commits.
+git init command creates all of the necessary files and directories for Git to keep track of everything.
