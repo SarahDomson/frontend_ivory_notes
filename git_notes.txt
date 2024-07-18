@@ -26,5 +26,7 @@ git log --oneline: print a single commit in a single line as output when the git
 git checkeout:  lets you navigate between the branches created by git branch.
 (git checkout)
 
+cp: used to copy the content of a file into another file(cp file.txt file1.txt)
+
 
 
